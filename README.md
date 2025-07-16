@@ -7,10 +7,7 @@ Focused on ethical hacking, research, and knowledge sharing. 🔐
 
 ## 📂 Categories
 
-- 🧱 Hack The Box
-- 🧪 TryHackMe
-- 🖥️ VulnHub
-- 🌐 Web Exploitation
+[**Hack The Box 📦**](https://github.com/cipherdluffy/Write-ups/blob/HackTheBox)
 
 ---
 
