@@ -11,14 +11,10 @@ Focused on ethical hacking, research, and knowledge sharing. 🔐
 
 ---
 
-## 🧠 Topics Covered
+## 🧠 List
 
-- 🔍 Enumeration & Information Gathering  
-- 💥 Exploitation Techniques  
-- 🔓 Privilege Escalation  
-- 🌐 Web Application Attacks  
-- 🔁 Reverse Engineering  
-- 🐚 Shells & Persistence  
+- [Pentest In Nutshell (HackTheBox)](https://github.com/cipherdluffy/Write-ups/blob/HackTheBox/Pentest%20In%20Nutshell%20HackTheBox.md)  
+  
 
 ---
 
